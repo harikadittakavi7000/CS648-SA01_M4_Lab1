@@ -1,9 +1,9 @@
 # CS648-SA01_M4_Lab1
 
-# Employee management system
+### Employee management system
 
 Tasks included:
-* Adding employee
-* Viewing the employees
-* Deleting the employees
-* Maintaining the employee count
+* Adding an employee
+* Viewing employees
+* Deleting employees
+* Maintaining an employee count
